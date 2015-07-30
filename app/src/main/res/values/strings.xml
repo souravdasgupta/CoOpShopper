@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CoOpShopper</string>
+
+    <string name="hello_world">Register with us to create an account, or Sign in if you already have an account</string>
+    <string name="action_settings">Settings</string>
+    <string name="sign_in">Sign in</string>
+    <string name="register">Register</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="register_header">Fill in the following compulsory details for registration.</string>
+    <string name="register_optional_header">Following details are optional</string>
+    <string name="name">Name : </string>
+    <string name="email">E-mail address : </string>
+    <string name="telephone1">Contact Number 1 :</string>
+    <string name="telephone2">Contact Number 2 :</string>
+    <string name="password">Password :</string>
+    <string name="confirm_password">Confirm Password :</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="signin_header">Enter your E-mail address and password to sign-in </string>
+</resources>
